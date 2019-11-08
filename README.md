@@ -2,7 +2,7 @@
 
 # Predicting Wage Level from US Census Data Using Random Forest Machine Learning Model
 
-Prepared by Eddie Reed, Alaa Senjab, Jessie Owens (Team Algorithm)
+This repository is for a group project I worked on as a Data Science Immersive student at General Assembly. I worked together with my classmates Eddie Reed and Alaa Senjab.
 
 ---
 
